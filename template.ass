@@ -1,0 +1,13 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+Timer: 100,0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, Bold, Italic, Underline, BorderStyle, Outline, Alignment, Encoding
+Style: Top, Arial, 16, &H00FFFFF9, 0, 0, 0, 1, 1, 8, 0
+Style: Bot, Arial, 16, &H00B4FCFC, 0, 0, 0, 1, 1, 2, 0
+
+[Events]
+Format: Layer, Start, End, Style, Text
